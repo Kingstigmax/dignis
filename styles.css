@@ -63,7 +63,7 @@ body{
 }
 
 #showcase{
-    background-image: url(./assets/clouds.jpg);
+    background-image: url(./Assets/clouds.jpg);
     background-position: center right;
     min-height: 200px;
     margin-bottom: 30px;
